@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\Middleware;
+namespace Jamarcer\SymfonyMessengerBundle\Middleware;
 
-use PcComponentes\SymfonyMessengerBundle\Bus\AllHandledStampExtractor;
+use Jamarcer\SymfonyMessengerBundle\Bus\AllHandledStampExtractor;
 use Symfony\Component\Messenger\Envelope;
 use Symfony\Component\Messenger\MessageBusInterface;
 use Symfony\Component\Messenger\Middleware\MiddlewareInterface;

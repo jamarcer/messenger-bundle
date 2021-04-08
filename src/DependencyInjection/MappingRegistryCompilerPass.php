@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\DependencyInjection;
+namespace Jamarcer\SymfonyMessengerBundle\DependencyInjection;
 
 use PcComponentes\Ddd\Application\Command;
 use PcComponentes\Ddd\Application\Query;

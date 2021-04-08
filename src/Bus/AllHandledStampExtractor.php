@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\Bus;
+namespace Jamarcer\SymfonyMessengerBundle\Bus;
 
 use Symfony\Component\Messenger\Envelope;
 use Symfony\Component\Messenger\Stamp\HandledStamp;

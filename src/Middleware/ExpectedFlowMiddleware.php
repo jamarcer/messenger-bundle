@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\Middleware;
+namespace Jamarcer\SymfonyMessengerBundle\Middleware;
 
 use PcComponentes\Ddd\Domain\Exception\ExistsException;
 use Symfony\Component\Messenger\Envelope;

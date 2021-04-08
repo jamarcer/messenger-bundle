@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\Serializer;
+namespace Jamarcer\SymfonyMessengerBundle\Serializer;
 
 use Assert\Assert;
 use PcComponentes\Ddd\Util\Message\Serialization\Exception\MessageClassNotFoundException;

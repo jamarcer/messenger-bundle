@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace PcComponentes\SymfonyMessengerBundle\DependencyInjection;
+namespace Jamarcer\SymfonyMessengerBundle\DependencyInjection;
 
-use PcComponentes\SymfonyMessengerBundle\Bus\AllHandledStampExtractor;
-use PcComponentes\SymfonyMessengerBundle\Bus\LastHandledStampExtractor;
+use Jamarcer\SymfonyMessengerBundle\Bus\AllHandledStampExtractor;
+use Jamarcer\SymfonyMessengerBundle\Bus\LastHandledStampExtractor;
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Definition;
